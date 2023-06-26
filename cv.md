@@ -23,3 +23,17 @@ I am an enthusiastic, self-motivated, reliable, responsible and hard working per
   
 * Bootstrap 5
 
+## Code Example
+
+```
+let a=10;
+let b=7;
+  function sum(a,b){
+     return a+b;
+  }
+```
+
+## Languages
+ * Russian - Native
+* Armenian-Native
+* English-  Intermediate
